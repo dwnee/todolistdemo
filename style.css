@@ -40,3 +40,6 @@ body{
 .task-done-bg{
   background-color: grey;
 }
+.task-tabs div{
+  cursor: pointer;
+}
